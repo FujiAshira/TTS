@@ -11,10 +11,10 @@ langList = LangSupport.copy().values()
 for langs in LangSupport.copy().keys():
     ggtReverse[LangSupport.copy()[langs]] = langs
 
-print(ggtReverse)
-print(langList)
+#print(ggtReverse)
+#print(langList)
 
-print(TTS.lang)
+#print(TTS.lang)
 def CTTS():
     word = EntryText.get()
     LangGetGet = ggtReverse[LangGet.get()]
