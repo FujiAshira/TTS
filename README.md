@@ -4,4 +4,4 @@
 
 It can change languages that avaliable.
 
-![Example](https://github.com/FujiAshira48261571644143/TTS/blob/main/tts.png?raw=true)
+![Example](https://github.com/FujiAshira/TTS/blob/main/tts.png?raw=true)
